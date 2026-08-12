@@ -17,6 +17,7 @@ public class Ecuaciones {
 
         switch (opcion) {
             case 1:
+                y = (3*x)/((1)+((3*x)/(3*(z)*(z)+(2)))) / (1)/(((1)/(1+z))+(3*(x)*(x))+(2*z)+(3));      
                 break;
             case 2:
                 break;
