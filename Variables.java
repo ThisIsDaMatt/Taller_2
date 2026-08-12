@@ -33,7 +33,17 @@ public class Variables {
         String string2 = "Hola UPB"; 
         String string3 = "Hola Maker Space";
         
-          
+          // Reasignaciones variables
+
+            Integer = Integer2;
+            Float = Float2;
+            Char = Char2;
+            string = string3;
+            Boolean = Boolean2;
+
+            
+
+
                                                                                                                         
                                                                                                                                        
 
