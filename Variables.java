@@ -41,6 +41,27 @@ public class Variables {
             string = string3;
             Boolean = Boolean2;
 
+        // Reasignaciones Hardcoded
+        Byte = 7;
+        Byte2 = -100;
+        Short = 135;
+        Short2 = -577;
+        
+        Integer2 = 67;
+        Integer3 = 999;
+        Long = 476344;
+        Long2 = 33333333333333333L;
+        
+        Float2 = 1.546464645f;
+        Double = 2.87585;
+        
+        Boolean2 = false;
+        
+        Char2 = '\u211a';
+        Char3= '\u240b';
+        
+        string2 = "Hola Xaca"; 
+        string3 = "No sé que ponerle";
             
 
 
