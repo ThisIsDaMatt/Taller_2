@@ -31,7 +31,6 @@ public class Ecuaciones {
     }    
 }
 
-<<<<<<< HEAD
 /*
                                         iMB                   
                                          MMMMX               
@@ -117,7 +116,6 @@ public class Ecuaciones {
              @MMMMMMMMMMMMMMMM,        2MMMMMMMMMMMMB       
              MMMMMMMMMMMZ                 XMMMMMMMMMM       
                                                ;X222X    */
-=======
 
 
 /*
@@ -186,4 +184,3 @@ public class Ecuaciones {
 
 
 */
->>>>>>> 3ace46f8db5c1a00a31b1ae1e0349a7228bd788c
