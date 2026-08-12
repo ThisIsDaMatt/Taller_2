@@ -27,5 +27,6 @@ public class Ecuaciones {
             default:
                 System.out.println("Opción inválida, intente de nuevo.");
         }
+        sc.close();
     }    
 }
