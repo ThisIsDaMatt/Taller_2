@@ -12,12 +12,13 @@ public class Ecuaciones {
         x = sc.nextDouble();
         System.out.print("Ingrese un valor para z: ");
         z = sc.nextDouble();
-        System.out.print("Elija una ecuación:" + "\n" + "- Ecuación 1" + "\n" + "- Ecuación 2");
+        System.out.print("Elija una ecuación:" + "\n" + "- Ecuación 1" + "\n" + "- Ecuación 2" + "\n" + "Número de ecuación: ");
         opcion = sc.nextInt();
 
         switch (opcion) {
             case 1:
-                y = (3*x)/((1)+((3*x)/(3*(z)*(z)+(2)))) / (1)/(((1)/(1+z))+(3*(x)*(x))+(2*z)+(3));      
+                y = (3*x)/((1)+((3*x)/(3*(z)*(z)+(2)))) / (1)/(((1)/(1+z))+(3*(x)*(x))+(2*z)+(3)); 
+                System.out.print("El resultado de la ecuación es: " + y);     
                 break;
             case 2:
                 break;
