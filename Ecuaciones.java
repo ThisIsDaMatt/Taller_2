@@ -31,6 +31,93 @@ public class Ecuaciones {
     }    
 }
 
+<<<<<<< HEAD
+/*
+                                        iMB                   
+                                         MMMMX               
+                                          MMMMM              
+                                          SMMMMMM            
+        ,M                               ZMMMMMMM           
+      .MM               MM2MM           MMMMMMMM;          
+     MMM               MMMMMMMSMMM      MMMMMMMMMM          
+   rMMM        MMMMMMMMMMMMMMMMMMM   7MMMMMMMMMMM@          
+  2MMMM          BMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ          
+  MMMM,       XMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM           
+ MMMMMM     .;2MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM            
+ MMMMMMM    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM             
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM               
+:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM2                 
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMi                     
+ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                      
+  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                    
+   ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                      
+      ,@MMMMMBrMMMMMMMMMMMMMMMMMMMM;;Mi                     
+                 MMMMMMMMMMMMMMMM8                          
+                 Z   0MMMMMMMMMMMMMX                        
+                        MMMMMMMMMMMMMMMMa                   
+                     MMMMMMMMMMMMMMMMMMMMMM                 
+                    MMMMMMMMMMMMMMMMMMMMMMMMB               
+                   2MMMMMMMMMMMMMMMMMMMMMMMMM               
+                   MMMMMMMMMMMMMMMMMMMMMMMMMM.              
+                  7MMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                  MMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                  MMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                  MMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                  MMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                  iMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                  iMMMMMMMMMMMMMMMMMMMMMMMMMMW              
+                   MMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                   MMMMMMMMMMMMMMMMMMMMMMMMMMZ              
+                   MMMMMMMMMMMMMMMMMMMMMMMMMMX              
+                  :MMMMMMMMMMMMMMMMMMMMMMMMMMX              
+                  MMMMMMMMMMMMMMMMMMMMMMMMMMM8              
+                  MMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                 .MMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                 MMMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+                MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0             
+                MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM             
+                MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ            
+               :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM            
+               7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM           
+                MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@          
+                MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0     
+            .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,
+           MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. 8MMMMM7 72M 
+         ;MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM              
+       iMMMMZ    MMMBMMMMMMMMMMMMMMMMMMMMMMMMM              
+        i         MMSMMMMMMMMMMMMMMMMMMMMMMMMM              
+                     MMMMMMMMMMMMMMMMMMMMMMMM0              
+                     MMMMMMMMMMMMBMMMMMMMMMMMX              
+                     MMMMMMMMMMMWiMMMMMMMMMMM7              
+                    iMMMMMMMMMMMa MMMMMMMMMMM               
+                    aMMMMMMMMMMMr MMMMMMMMMMM               
+                    MMMMMMMMMMMM; MMMMMMMMMMM               
+                    MMMMMMMMMMMM  MMMMMMMMMMM               
+                    MMMMMMMMMMMM rMMMMMMMMMMM               
+                    MMMMMMMMMMMM 7MMMMMMMMMMM               
+                    MMMMMMMMMMMM BMMMMMMMMMMM               
+                    MMMMMMMMMMMM 2MMMMMMMMMMM               
+                    MMMMMMMMMMMM aMMMMMMMMMMM               
+                    MMMMMMMMMMMM aMMMMMMMMMMM               
+                    MMMMMMMMMMMM SMMMMMMMMMMM               
+                    MMMMMMMMMMMM ;MMMMMMMMMMM;              
+                    MMMMMMMMMMMM  MMMMMMMMMMMM              
+                    MMMMMMMMMMMM  MMMMMMMMMMMM              
+                   .MMMMMMMMMMMM  MMMMMMMMMMMM              
+                   aMMMMMMMMMMMM  MMMMMMMMMMMMX             
+                   MMMMMMMMMMMMM  XMMMMMMMMMMMM             
+                   MMMMMMMMMMMMM   MMMMMMMMMMMMi            
+                  8MMMMMMMMMMMMM   MMMMMMMMMMMMM            
+                  MMMMMMMMMMMMMM.  MMMMMMMMMMMMMM           
+                 MMMMMMMMMMMMMMM2  MMMMMMMMMMMMMMB          
+                MMMMMMMMMMMMMMMM0  MMMMMMMMMMMMMMMB         
+                iMMMMMMMMMMMMMMMM  iMMMMMMMMMMMMMMM;        
+              BMMMMMMMMMMMMMMMMMM    MMMMMMMMMMMMMM         
+             @MMMMMMMMMMMMMMMM,        2MMMMMMMMMMMMB       
+             MMMMMMMMMMMZ                 XMMMMMMMMMM       
+                                               ;X222X    */
+=======
 
 
 <<<<<<< HEAD
