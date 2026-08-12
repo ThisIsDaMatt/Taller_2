@@ -9,4 +9,6 @@ Repositorio para la segunda actividad o taller de Lógica de Programación.
 
 ## Desarrollo de trabajo
 
-Se creo el archivo Variables.java en el cual se trabajo en equipo y posteriormente se creo el archivo ecuaciones.java, el cual se concluyo tambien entre los tres compañeros. 
+Se creo el archivo Variables.java en el cual se trabajo en equipo y posteriormente se creo el archivo Ecuaciones.java, el cual se concluyo tambien entre los tres compañeros. 
+
+![Trabajo_en_equipo](team.jpeg)
