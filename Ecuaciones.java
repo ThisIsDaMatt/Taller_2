@@ -21,6 +21,8 @@ public class Ecuaciones {
                 System.out.print("El resultado de la ecuación es: " + y);     
                 break;
             case 2:
+                y = (x*x + 3*z + 2)/(2 + 1.0/(1 + 2*z)) + (2.0/(1 + 3*x*x*x + 3*z + 2))/(1.0/(1 + 3*x) + (3*x + 1)/(2*z + 3.0/(1 + 5.0/z)));
+                System.out.print("El resultado de la ecuación es: " + y);
                 break;
             default:
                 System.out.println("Opción inválida, intente de nuevo.");
