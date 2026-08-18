@@ -62,6 +62,12 @@ public class Variables {
         
         string2 = "Hola Xaca"; 
         string3 = "No sé que ponerle";
+
+        //Variable con uso f y L
+        float Float3 = 1.23456789f;
+        long Long3 = 1234567890123456789L;
+
+    
             
 
 
