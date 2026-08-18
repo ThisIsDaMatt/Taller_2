@@ -6,9 +6,9 @@ Repositorio para el segundo taller de Lógica de Programación, enfocado en el a
 
 ## Integrantes del trabajo
 
-- Jeronimo Arcila 
-- Juan Pablo Ortiz
-- Matias Munera
+- Jeronimo Arcila (jeronimo.arcila@upb.edu.co)
+- Juan Pablo Ortiz ( juan.ortizb.col@upb.edu.co )
+- Matias Munera ( matias.muneram.col@upb.edu.co ) 
 
 ## Archivos del repositorio
 
