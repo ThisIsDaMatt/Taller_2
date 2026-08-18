@@ -8,7 +8,11 @@ Repositorio para el segundo taller de Lógica de Programación, enfocado en el a
 
 - Jeronimo Arcila (jeronimo.arcila@upb.edu.co)
 - Juan Pablo Ortiz ( juan.ortizb.col@upb.edu.co )
-- Matias Munera ( matias.muneram.col@upb.edu.co ) 
+- Matias Munera ( matias.muneram.col@upb.edu.co )
+
+## Metas para el trabajo
+
+-Practicar y repasar la creacion de las diferentes variables y aprender a realizar ecuaciones en VS. Aparte de eso, poner en practica el trabajo en equipo y la creacion de comentarios para guiar al resto del grupo.
 
 ## Archivos del repositorio
 
