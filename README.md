@@ -25,7 +25,7 @@ Repositorio para el segundo taller de Lógica de Programación, enfocado en el a
 - **team.jpeg**: Foto del trabajo en equipo.
 
 > [!WARNING]
-> Ecuaciones.java no está pensado para ejecutarse, sinó para que su contenido sea analizado.
+> Variables.java no está pensado para ejecutarse, sinó para que su contenido sea analizado.
 
 ## Desarrollo de trabajo
 
@@ -37,7 +37,7 @@ Se creo el archivo **Variables.java** en el cual se trabajo en equipo y posterio
 
 ![Trabajo_en_equipo](team.jpeg)
 
-## Como ver y ejecutar correctamente el código
+## Cómo ver y ejecutar correctamente el código
 
 Entra al repositorio de GitHub, dirigete al botón verde que dice "**<> Code**" y selecciona "**Download ZIP**", esto descargará los archivos de este repositorio.
 
