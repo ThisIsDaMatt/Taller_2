@@ -24,7 +24,7 @@ public class Variables {
         float Float = 1.25345f;
         float Float2 = 1.01010101f;
         double Double = 3.29347;
-       double Double = 2.988989;
+       double Double2 = 2.988989;
         boolean Boolean = false;
         boolean Boolean2 = true;
         char Char = '\u263a';
